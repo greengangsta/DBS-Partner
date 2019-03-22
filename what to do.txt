@@ -1,0 +1,55 @@
+Dear Applicant, 
+
+Thanks for your interest! 
+
+As part of the selection process we ask applicants to complete an assignment using their NLP and python skills. Assignment is to extract key features from the employment agreements.
+
+Some information about the employment agreements: 
+•	Agreements are from different employers and for different positions, though key elements of the agreement like base salary, termination clause etc. may be common, the structure of the agreement itself will be different 
+•	There are two different document types – a) employment agreements and b) amendments to employment agreement 
+
+Assignment: 
+
+1.	First build a model that classifies the two document types – whether it is employment letter or amendment letter 
+2.	Build a model to extract features from employment agreement document type. 
+a.	Model to extract features from amendment letter is NOT REQUIRED 
+3.	Extract as many features from the below list as possible into a csv file. 
+(Minimum of first 4(a to d) features are required)   
+a.	Name of the employer 
+b.	Name of the employee
+c.	Role/Tile of the employee
+d.	Base Salary 
+e.	Responsibilities of the employee in the role 
+f.	Date agreement was entered  
+g.	Employment start date
+h.	Employment end date (if it exists)
+i.	Other compensation 
+i.	Bonus
+ii.	Commissions
+iii.	Stock options
+iv.	Other stock or equity awards  
+j.	Non-monetary benefits 
+o	Health insurance 
+o	401K 
+o	Vacation 
+k.	Termination 
+o	at-will or not?
+o	Notice period 
+
+
+Deliverables: 
+•	One-page document detailing the approach, steps and ML/NLP algorithms you would use to come up with the solution 
+•	Executable python code for the solution 
+•	CSV file with the features extracted using the solution 
+•	You can share github location to the solution   
+
+References:
+Employment agreements data for the assignment: https://github.com/rdamarapati/document-analytics
+
+Deadline for the assignment:  24/03/2019
+
+Please do submit the solution even if it is not complete end state solution, we are looking for your approach and application of skills to the problem solving 
+ 
+Reply back to this message with “I’m up for it” if you accept the assignment and we can expect a submission from you. 
+
+Please let us know if you have any questions or concerns
